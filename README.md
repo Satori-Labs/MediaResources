@@ -14,6 +14,5 @@
 ![BlackB3](https://github.com/Satori-Labs/MediaResources/assets/157132504/de3ba8ac-ba27-455a-b4a7-2a19f5a06929)
 ![BlackB4](https://github.com/Satori-Labs/MediaResources/assets/157132504/59d52db8-d3df-4651-8c93-f755a4ee2d0d)
 ![BlackB5](https://github.com/Satori-Labs/MediaResources/assets/157132504/1b667326-73ad-4441-825f-73ded422f5d2)
-[BlackB6](https://github.com/Satori-Labs/MediaResources/assets/157132504/7312dc35-7c5a-4813-8c24-04ce1d508701)
 ![Satori](https://github.com/Satori-Labs/MediaResources/assets/157132504/3870c25b-de37-4477-9644-e0488f8bbfab)
 ![Logo](https://github.com/Satori-Labs/MediaResources/assets/157132504/71073197-8e26-4015-be39-583840c48738)
